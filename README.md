@@ -1,0 +1,2 @@
+# pngimage
+Component PNGImage / TPNGImage
